@@ -1,0 +1,6 @@
+@EtaxService_HostAddress = http://localhost:5277
+
+GET {{EtaxService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
